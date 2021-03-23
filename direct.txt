@@ -6,6 +6,7 @@ wudaosoft.com
 akamaized.net
 wscdns.com
 pool.ntp.org
+pool.ntp.org.cn
 apple-dns.net
 push.apple.com
 full:glados-remote.com
