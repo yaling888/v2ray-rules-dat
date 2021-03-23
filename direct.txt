@@ -1,0 +1,17 @@
+local
+lan
+ixigua.com
+yanxiaoya.cc
+wudaosoft.com
+akamaized.net
+wscdns.com
+pool.ntp.org
+apple-dns.net
+push.apple.com
+full:glados-remote.com
+gi3.akamai.net
+full:api.equinox.io
+full:safebrowsing.googleapis.com
+full:download.jetbrains.com
+full:images-cn.ssl-images-amazon.com
+full:cdn.angruo.com
